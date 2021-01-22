@@ -36,3 +36,5 @@ The two packages have specific functionalities and own website.
 - [igl](https://libigl.github.io/): swiss-army-knife of geometric processing functions ([python documentation](https://libigl.github.io/libigl-python-bindings/))
 
 ## Experiment 1 - Gauss map
+
+See the jupyter notebook *gauss_map.ipynb*
