@@ -38,4 +38,5 @@ The two packages have specific functionalities and own website.
 
 ## Experiment 1 - Gauss map
 
-See the jupyter notebook [gauss_map.ipynb](https://github.com/origamidance/AF-Developable-surface/blob/main/gauss_map.ipynb).
+See the Jupyter Notebook [gauss_map.ipynb](https://github.com/origamidance/AF-Developable-surface/blob/main/gauss_map.ipynb).
+Please use Jupyter Notebook to run the code, Jupyter Lab is currently not compatible with meshplot package.
